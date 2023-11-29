@@ -23,11 +23,9 @@
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias para mejorar la aplicación, no dudes en abrir un problema o enviar una solicitud de extracción.
 
-## Licencia
-Este proyecto está bajo la [Licencia MIT](LICENSE).
 
 ## Contacto
-- Autor: [Tu Nombre]
-- Correo Electrónico: [tu@email.com]
+- Autor: [Eddy Mendoza]
+- Correo Electrónico: [eddymy1304@email.com]
 
-¡Gracias por usar [Nombre de tu Aplicación]!
+¡Gracias por usar [TextToSpeech]!
