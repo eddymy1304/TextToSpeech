@@ -16,7 +16,7 @@
 - [Jetpack Compose](https://developer.android.com/jetpack/compose): Biblioteca moderna de IU para construir interfaces de usuario nativas de Android de manera declarativa.
 
 ## Cómo Ejecutar la Aplicación
-1. Clona este repositorio: `git clone https://github.com/eddymy1304/text-to-speech.git`
+1. Clona este repositorio: `[git clone https://github.com/eddymy1304/text-to-speech.git]`
 2. Abre el proyecto en Android Studio.
 3. Ejecuta la aplicación en un emulador o dispositivo Android.
 
