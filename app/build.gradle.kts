@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.texttospeech"
+    namespace = "com.eddymy1304.texttospeech"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.texttospeech"
+        applicationId = "com.eddymy1304.texttospeech"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
