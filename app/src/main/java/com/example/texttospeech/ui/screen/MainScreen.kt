@@ -34,6 +34,7 @@ fun MainScreen(textToSpeech: TextToSpeech? = null) {
         MyButton(text = "Speech") {
             vibrate(context, 500)
             textToSpeech?.speak(textField, TextToSpeech.QUEUE_FLUSH, null, null)
+            textField = ""
         }
     }
 }
